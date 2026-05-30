@@ -117,7 +117,7 @@ The **Online Learning & Course Recommendation Platform** is a full-stack EdTech 
 
 ### Database Schema
 
-```javascript
+```
 // User Collection
 {
   name: String,
@@ -161,35 +161,35 @@ The **Online Learning & Course Recommendation Platform** is a full-stack EdTech 
 ```
 
 ## 📦 Installation Guide
-# Prerequisites
+Prerequisites
  - Node.js (v18 or higher)
  - MongoDB Atlas Account (or local MongoDB)
 
-# Git
+Git
 
 **Step 1: Clone the Repository**
  - git clone https://github.com/yourusername/online-learning-platform.git
  - cd online-learning-platform
 
 **Step 2: Backend Setup**
-# Navigate to server folder
+Navigate to server folder
  - cd server
 
-# Install dependencies
+Install dependencies
  - npm install
 
-# Create .env file (see environment variables section)
-# Start the server
+Create .env file (see environment variables section)
+Start the server
  - npm run dev
 
 **Step 3: Frontend Setup**
-# Open new terminal, navigate to client folder
+Open new terminal, navigate to client folder
  - cd client
 
-# Install dependencies
+Install dependencies
  - npm install
 
-# Start the frontend
+Start the frontend
  - npm run dev
 
 **Step 4: Access the Application**
@@ -200,16 +200,16 @@ The **Online Learning & Course Recommendation Platform** is a full-stack EdTech 
 ## 🔐 Environment Variables
  - Backend (.env in server folder)
  - env
-# Server Configuration
+Server Configuration
  - PORT=5000
  - NODE_ENV=development
-# MongoDB Connection
+MongoDB Connection
  - MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/learning_platform_db
-# JWT Configuration
+JWT Configuration
  - JWT_SECRET=your_super_secret_jwt_key
  - JWT_EXPIRE=7d
 
-# Frontend URL
+Frontend URL
  - CLIENT_URL=http://localhost:5173
  - Frontend (.env in client folder)
 env
@@ -362,20 +362,20 @@ Contributions are welcome! Please follow these steps:
 
 ## 🚀 Quick Start Commands
 
-# Clone repository
+Clone repository
  - git clone https://github.com/yourusername/online-learning-platform.git
 
-# Backend
+Backend
  - cd server
  - npm install
  - npm run dev
 
-# Frontend (new terminal)
+Frontend (new terminal)
  - cd client
  - npm install
  - npm run dev
 
-# Open browser
-# http://localhost:5173
+Open browser
+ - http://localhost:5173
 
 ⭐ Star this repository if you found it helpful!
