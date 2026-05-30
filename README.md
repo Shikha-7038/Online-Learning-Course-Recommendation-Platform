@@ -13,14 +13,10 @@
 - [Architecture](#architecture)
 - [Installation Guide](#installation-guide)
 - [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [How to Use](#how-to-use)
-- [Recommendation Logic](#recommendation-logic)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🚀 Project Overview
 
@@ -344,9 +340,6 @@ Contributions are welcome! Please follow these steps:
  - Commit changes (git commit -m 'Add some AmazingFeature')
  - Push to branch (git push origin feature/AmazingFeature)
  - Open a Pull Request
-
-## 📝 License
- - This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
  - MongoDB Atlas for free database hosting
